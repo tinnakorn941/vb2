@@ -24,7 +24,7 @@ owner.login(token="token")
 owner.loginResult()
     
 vipro = VIPRO.LINE()
-vipro.login(token="token")
+vipro.login(token="เชล")
 vipro.loginResult()
 
 ki = VIPRO.LINE()
